@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML Tutorial</title>
+  </head>
+  <body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+    <form method="POST" action="http://formspree.io/mukund@apiria.com"> <input
+        name="email" placeholder="Your email" type="email"> <textarea name="message"
+placeholder="Your message"></textarea> <button type="submit">Send</button>
+    </form>
+  </body>
+</html>
